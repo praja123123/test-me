@@ -16,7 +16,7 @@ def write_to_csv(data):
 
 @app.route('/')
 def main_page():
-    return render_template("index.html")
+    return render_template("index22.html")
 
 
 @app.route('/<string:page_name>')
