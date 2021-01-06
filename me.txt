@@ -1,2 +1,2 @@
-This is SECOND_USER file.
+This is FIRST_USER file.
 
