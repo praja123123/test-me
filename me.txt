@@ -1,2 +1,2 @@
-This is conflict file.
+This is FIRST_USER file.
 
